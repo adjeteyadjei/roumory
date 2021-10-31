@@ -1,0 +1,7 @@
+{
+  "name": "roumory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
